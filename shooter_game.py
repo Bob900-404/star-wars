@@ -193,7 +193,7 @@ while run:
         
         if life == 0 or lost >= max_lost:
             finish = True
-            window.blit(L, (200, 200))
+            window.blit(L, (190, 200))
 
 
 
